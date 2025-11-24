@@ -19,19 +19,23 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Some of the Tech Stacks I've Worked With
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp,react,nextjs,nodejs,express,spring,docker,git,github,postgres,mongodb,aws" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,java,cpp,react,nextjs,nodejs,express,spring,docker,git,postgres,mongodb,aws" />
 </p>
 
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Stats
+
+
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=deceasedone&theme=tokyonight&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deceasedone&theme=tokyonight&layout=compact&hide_border=true" />
+  <img height="150" src="https://nirzak-streak-stats.vercel.app/?user=deceasedone&theme=tokyonight&hide_border=false" />
 </p>
+
+
+
 
 ---
 
